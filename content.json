@@ -1,0 +1,13 @@
+{
+    "instructor": {
+        "name": "Edgar Marques",
+        "github": "https://github.com/Jorrmungandr",
+    },
+    "project": {
+        "name": "[PROJECT_NAME]",
+        "project_github": "https://github.com/Jorrmungandr/[PROJECT_NAME]"
+    },
+    "content": {
+        
+    }
+}
