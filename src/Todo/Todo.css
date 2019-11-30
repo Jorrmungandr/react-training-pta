@@ -1,0 +1,21 @@
+.todo-form {
+  padding-left: 20px;
+  margin-bottom: 4rem;
+}
+
+.form-input {
+  padding: 5px
+}
+
+.save-button {
+  cursor: pointer;
+  height: 28px;
+  width: 28px;
+  margin-left: 5px;
+  background-color: #32935b;
+  border: none;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 600;
+}

@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  margin: 100px;
+  border: 1px solid #f2f2f2;
+  border-radius: 25px;
+  box-shadow: 0px 0px 15px -12px rgba(161,161,161,1);
+  padding: 2rem;
+  text-align: start;
 }
 
 .App-logo {
@@ -19,4 +25,13 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.navbar {
+  width: 100vw;
 }

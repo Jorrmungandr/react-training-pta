@@ -1,0 +1,33 @@
+.list {
+  list-style: none;
+  border-bottom: 1px solid #e6e6e6;
+  padding: 0;
+}
+
+.item-card {
+  padding: 20px;
+  border-top: 1px solid #e6e6e6;
+}
+
+.item-checked {
+  text-decoration: line-through;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.delete-button {
+  background: none;
+  border: 2px solid #32935b;
+  border-radius: 3px;
+  color: #32935b;
+  cursor: pointer;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+.delete-button:active {
+  border: 2px solid red;
+  color: red;
+}
